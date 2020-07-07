@@ -1,0 +1,102 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Almendra', serif;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.title {
+	font-size: 25px;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #61122f;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #1C0702;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#main_title {
+	color: #f6b319;
+  font-size: 1.6em;
+  margin-bottom: 15px;
+}
+
+#main_body  {
+  background-color: #f6b319;
+  color: #61122f;
+  font-weight: bold;
+  padding-top : 5px;
+}
+
+#main_body p {
+  padding : 10px 15px 15px 15px;
+}
+
+#main_body h3 {
+  text-align: center;
+}
+
+.col-xs-12 {
+  margin: 10px;
+  width: auto;
+}
+
+#navigation {
+  width: auto;
+}
+
+.navbar-default .navbar-toggle { 
+  border-color: #61122f;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #61122f;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #a94442;
+}
+
+
+#nav-list a {
+  color: #61122f;
+  text-align: center;
+}
+
+#nav-list li:nth-child(1),li:nth-child(2) {
+   border-bottom: solid 2px #61122f;
+}
+
+#nav-list a:hover {
+  background: #a94442;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #61122f ;
+}
+
+.navbar-nav {
+    margin: 1px -15px;
+}
+
+#back {
+  margin-left: 5px;
+}
